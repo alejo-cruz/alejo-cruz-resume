@@ -77,10 +77,10 @@ Then play around with margins, paddings, and positionings */
 }
 
 .resume-info li::before {
-  content: "☉";
+  content: "⁃";
   position: absolute;
   left: 0;
-  color: #0057A8;
+  color: #800000;
 }
 
 /* This is to control the photos on screen. For now, it's just your logo. */
@@ -105,7 +105,7 @@ h1 {
 h2 {
   text-transform: lowercase;
   text-align: center;
-  color: #0057A8
+  color: #800000
 }
 
 h4 {
