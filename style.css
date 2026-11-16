@@ -77,7 +77,7 @@ Then play around with margins, paddings, and positionings */
 }
 
 .resume-info li::before {
-  content: "⦿";
+  content: "☉";
   position: absolute;
   left: 0;
   color: #0057A8;
